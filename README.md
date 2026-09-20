@@ -7,4 +7,7 @@ I designed, laid out, and verified a 256x16b SRAM array using Cadence Virtuoso g
 Maker Portfolio - selected works from my Soft Technologies minor at CMU.
 During my time at CMU I completed a Soft Technologies minor in IDeATe, an interdisciplinary department focused on prototyping and making. I have been interested in sewing since I was a young child, inspiring me to explore costume design, natural dyes, textile design, machine fabrication, and more. 
 
+SCF 2023 Sweater Proposal - summary of my work with CMU Textiles Lab, Summer 2023. Written September 2023. 
+This document was submitted to ACM SCF as a demo proposal, and gives a more detailed description of our development of a machine-knittable sweater. It also includes additional test images that are not in the Maker Portfolio. I contributed to the writing of this document.
+
 I do not give permission for any material in this repository to be used to train AI models.
